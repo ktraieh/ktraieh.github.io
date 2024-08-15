@@ -3,8 +3,9 @@ layout: default
 modal-id: 6
 date: 2024-08-14
 img: submarine.png
-alt: Data 502 Final Project.pdf
+alt: image-alt
 project-date: July 2024
 category: Project
 description: Supporting Healthy Lifestyles in Healthcare Professionals. This is a project that aims to shed light on the healthcare system and to push better care for our healthcare professionals. 
+pdf-link: /Data%20502%20Final%20Project.pdf
 ---
